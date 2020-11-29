@@ -1,0 +1,1 @@
+<a class="mx-2 text-white" wire:click="logout">Logout</a>
